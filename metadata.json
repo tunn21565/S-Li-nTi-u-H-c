@@ -1,0 +1,8 @@
+{
+  "name": "Sổ Liên Lạc 5A",
+  "description": "Sổ liên lạc Lớp 5A (31 học sinh): điểm danh chuyên cần, nề nếp, sổ điểm, đồng bộ số điện thoại phụ huynh, báo cáo tổng kết tuần/tháng xuất file Excel (.xls) và gửi nhóm Zalo lớp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
